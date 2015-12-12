@@ -5,10 +5,10 @@ Collect the knowledge about sensor, physical, chemical, biological etc.
 
 # ToDo
 * wiki
-  <https://en.wikipedia.org/wiki/User:Ropenj/Books/Sensor_Being>
-  <https://en.wikipedia.org/wiki/Sensor>
-  <https://en.wikipedia.org/wiki/List_of_sensors>
-  <http://sensorwiki.org/>
+  - <https://en.wikipedia.org/wiki/User:Ropenj/Books/Sensor_Being>
+  - <https://en.wikipedia.org/wiki/Sensor>
+  - <https://en.wikipedia.org/wiki/List_of_sensors>
+  - <http://sensorwiki.org/>
   
 * 国际传感器协会？？
 
