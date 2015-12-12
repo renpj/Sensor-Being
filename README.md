@@ -16,6 +16,8 @@ Collect the knowledge about sensor, physical, chemical, biological etc.
 
   <http://www.ama-science.org/>
   
+  <http://ieee-sensors.org/>
+  
   __[International  Frequency  Sensor  Association  (IFSA)](http://sensorsportal.com/)__
   
   International Frequency Sensor Association (IFSA) is a professional, non-profit, international society for supporting researches and developments in physical and chemical, electrical and non-electrical sensors and biosensors.The main aim of IFSA is to provide the best platform for academicians, researchers and engineers from industry to present and discuss the latest research results, experiences and future trends in the area of design and application of different smart sensors with digital, frequency (period), duty-cycle, PWM, time interval, phase-shift or pulse number output. Very fast advances in IC technologies brought new challenges in the physical design of integrated sensors and microsensors. This development is essential for developing modern measurement science and technology in the nearest future.
